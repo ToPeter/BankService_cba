@@ -1,0 +1,5 @@
+dk\bankservice\controller\CalculateQuote.class
+dk\bankservice\dto\LoanRequestDTO.class
+dk\bankservice\dto\LoanResponseDTO.class
+dk\bankservice\service\BankWebService.class
+dk\bankservice\messaging\Send.class
